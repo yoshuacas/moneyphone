@@ -1,0 +1,51 @@
+{
+  "project_info": {
+    "project_number": "280709059231",
+    "project_id": "firebase-moneyphone"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280709059231:android:66381125dbd7b3ec",
+        "android_client_info": {
+          "package_name": "com.innoteam.moneyphone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "280709059231-78bl8ol011680s9ffn4dj5gqs84kfds8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.innoteam.moneyphone",
+            "certificate_hash": "7B5A32DEF15BA130F8294B9494BC9EBA809F1A61"
+          }
+        },
+        {
+          "client_id": "280709059231-m612jjvd23ngelubj80aq0nkmsgf5igu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTQcTLRSonx25R3PaAEf8DKFU1iItUCUQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 2,
+          "analytics_property": {
+            "tracking_id": "UA-61530521-2"
+          }
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
